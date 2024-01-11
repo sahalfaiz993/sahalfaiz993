@@ -1,10 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Sahalfaiz.io)
 
-<h1 align="center">Hi 👋, I'm Hafiz Sahalfaiz</h1>
+<h1 align="center">Hi 👋, I'm There Hafiz Muhammad Sahalfaiz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahalfaiz993&label=Profile%20views&color=0e75b6&style=flat" alt="sahalfaiz993" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahalfaiz993" alt="sahalfaiz993" /></a> </p>
 - 🌱 I’m currently learning **frame works ,courses**
 
 - 👨‍💻 All of my projects are available at [https://myapp-sandy-omega.vercel.app/](https://myapp-sandy-omega.vercel.app/)
